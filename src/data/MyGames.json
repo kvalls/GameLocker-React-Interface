@@ -1,0 +1,30 @@
+{
+  "filter":"",
+  "games": [
+    {
+      "name": "Game 1",
+      "hours": "1500",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/32978945/4b1bfc27e5371bdca0c5f9d20d24310d9473ee0a_400x225.png"
+    },
+    {
+      "name": "Game 2",
+      "hours": "1000",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/32977250/94bf98f7d30b6e00e230284aed0d3e8e37b33d35_400x225.png"
+    },
+    {
+      "name": "Game 3",
+      "hours": "500",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/4460946/fc9c247336700b28ef230abac2f3aac12f5ebdc0_400x225.png"
+    },
+    {
+      "name": "Game 4",
+      "hours": "200",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/36135791/f0401a892c87f93f4093bdfc3c769136c3500596_400x225.jpg"
+    },
+    {
+      "name": "Game 5",
+      "hours": "50",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/38025003/8b2a8e81dfa247beb2ced1ceee146806ed1442a7_400x225.png"
+    }
+  ]
+}

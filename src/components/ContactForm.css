@@ -1,0 +1,31 @@
+[title="Email"] {
+  color: white !important;
+}
+
+[title="Message"] {
+  color: white !important;
+}
+
+.Check {
+  color: white !important;
+}
+
+.ant-btn-primary {
+  background-color: red;
+  border-color: rgb(46, 0, 0);
+}
+
+.ant-btn-primary:focus {
+  background-color: red;
+  border-color: rgb(46, 0, 0);
+}
+
+.ant-btn-primary:hover {
+  background-color: rgb(255, 89, 89);
+  border-color: rgb(46, 0, 0);
+}
+
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: red;
+  border-color: red;
+}

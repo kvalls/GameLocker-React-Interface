@@ -1,0 +1,47 @@
+{
+  "filter":"",
+  "games": [
+    {
+      "name": "Game 1",
+      "players": "200000",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/32978945/4b1bfc27e5371bdca0c5f9d20d24310d9473ee0a_400x225.png"
+    },
+    {
+      "name": "Game 2",
+      "players": "150000",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/36135791/f0401a892c87f93f4093bdfc3c769136c3500596_400x225.jpg"
+    },
+    {
+      "name": "Game 3",
+      "players": "100000",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/32977250/94bf98f7d30b6e00e230284aed0d3e8e37b33d35_400x225.png"
+    },
+    {
+      "name": "Game 4",
+      "players": "50000",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3090835/084a76042a093250206c6e1e7a9ec78f9ed97319_400x225.png"
+    },
+    {
+      "name": "Game 5",
+      "players": "40000",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/6743820/a69768ca3b99edcd6d35ba42ca58c43454857d18_400x225.jpg"
+    },
+    {
+      "name": "Game 6",
+      "players": "30000",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/599215/e3d39ccd6ee71e1acf2f8bcf1424a96e7a417f7d_400x225.png"
+    }
+    ,
+    {
+      "name": "Game 7",
+      "players": "20000",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/39753815/405c0677c91fd900e389dae6fba027e3e7240017_400x225.jpg"
+    }
+    ,
+    {
+      "name": "Game 8",
+      "players": "10000",
+      "img":"https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/36347973/fa67025ff980e4e49d17621d86e6a7be0c1ca9c3_400x225.png"
+    }
+  ]
+}
